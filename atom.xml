@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xmt-xmt.github.io</id>
     <title>Gridea</title>
-    <updated>2020-02-28T06:55:35.960Z</updated>
+    <updated>2020-10-24T11:40:31.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xmt-xmt.github.io"/>
     <link rel="self" href="https://xmt-xmt.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://xmt-xmt.github.io/images/avatar.png</logo>
     <icon>https://xmt-xmt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[我的备份]]></title>
+        <id>https://xmt-xmt.github.io/post/wo-de-bei-fen/</id>
+        <link href="https://xmt-xmt.github.io/post/wo-de-bei-fen/">
+        </link>
+        <updated>2020-05-01T09:25:35.000Z</updated>
+        <content type="html"><![CDATA[<p>fff</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://xmt-xmt.github.io/post/about/</id>
+        <link href="https://xmt-xmt.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xmt-xmt.github.io/post/hello-gridea/</id>
